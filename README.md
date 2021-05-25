@@ -1,4 +1,4 @@
-# ethereum-console
+# vapory-console
 
 Commandline console for Ethereum nodes.
 
